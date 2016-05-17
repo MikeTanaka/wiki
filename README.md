@@ -13,5 +13,7 @@
 
 ## git command
 * $ git clone git@github.com:hoge/RepositoryName
-
+* $ git status
+* $ git commit -a -m "comment"
+* $ git push origin master
 
