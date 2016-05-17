@@ -10,3 +10,8 @@
 ## ssh Key Generate
 * $ ssh-keygen -t rsa -C "xx@xx"
 * $ cat ~/.ssh/id_rsa.pub
+
+## git command
+* $ git clone git@github.com:hoge/RepositoryName
+
+
